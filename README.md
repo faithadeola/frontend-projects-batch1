@@ -17,12 +17,13 @@ Inside each folder, you will find:
 
 ### 2. Progress Steps
 [Poject2](progressSteps)  
-![Progress Steps Screenshot](Screenshot2025-08-12-at11:29:36.png)
+![Progress Steps Screenshot](https://github.com/faithadeola/frontend-projects-batch1/blob/main/progressSteps/Screenshot%202025-08-12%20at%2011.29.36.png)
 
 ---
 
 ### 3. Rotating Navigation
 [Poject3](rotatingNavigation)  
+
 
 ---
 
