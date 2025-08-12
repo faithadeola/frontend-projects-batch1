@@ -16,23 +16,23 @@ Inside each folder, you will find:
 ---
 
 ### 2. Progress Steps
-[Live Demo](https://yourusername.github.io/frontend-projects-batch1/02-progress-steps/)  
-![Progress Steps Screenshot](screenshots/progress-steps.png)
+[Poject2](progressSteps)  
+![Progress Steps Screenshot](Screenshot2025-08-12-at11:29:36.png)
 
 ---
 
 ### 3. Rotating Navigation
-[Live Demo](https://yourusername.github.io/frontend-projects-batch1/03-rotating-navigation/)  
-![Rotating Navigation Screenshot](screenshots/rotating-navigation.png)
+[Poject3](rotatingNavigation)  
 
 ---
 
 ### 4. Hidden Search Widget
-[Live Demo](https://yourusername.github.io/frontend-projects-batch1/04-hidden-search-widget/)  
-![Hidden Search Widget Screenshot](screenshots/hidden-search-widget.png)
+[Poject4](HiddenSearchWidget)  
+![Hidden Search Widget Screenshot](SearchWidgetHidden.png)
+![Hidden Search Widget Screenshot](SearchWidgetVisible.png)
 
 ---
 
 ### 5. Blurry Loading
-[Live Demo](https://yourusername.github.io/frontend-projects-batch1/05-blurry-loading/)  
-![Blurry Loading Screenshot](screenshots/blurry-loading.png)
+[Poject5](BlurryLoadingImage)  
+![Blurry Loading Screenshot](BlurryImageLoad.mp4)
