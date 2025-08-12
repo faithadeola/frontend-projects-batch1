@@ -10,7 +10,7 @@ Inside each folder, you will find:
  ### Projects & Screenshots
 
 ### 1. Expanding Cards
-[Poject1](https://faithadeola.github/frontend-projects-batch1/expandingCards/)  
+[Poject1](expandingCards)  
 ![Expanding Cards Screenshot](expandingCards/ExpandingCards1.png)
 
 ---
